@@ -2,26 +2,26 @@
 
 Packages and classes:
 1) Entity package:
-   Applicant.java
-   Company.java
-   JobApplication.java
-   JobListing.java
+   i) Applicant.java
+   ii) Company.java
+   iii) JobApplication.java
+   iv) JobListing.java
 
 2) DAO Package:
-   ApplicantDAO interface
-   ApplicantDAOImpl.java
-   CompanyDAO Interface
-   CompanyDAOImpl.java
-   JobApplicationDAO Interface
-   JobApplicationDAOImpl.java
-   JobListingDAO Interface
-   JobListionDAOImpl.java
+   i) ApplicantDAO interface
+   ii) ApplicantDAOImpl.java
+   iii) CompanyDAO Interface
+   iv) CompanyDAOImpl.java
+   v) JobApplicationDAO Interface
+   vi) JobApplicationDAOImpl.java
+   vii) JobListingDAO Interface
+   viii) JobListionDAOImpl.java
 
 3) Database Package:
-   DatabaseManager.java
+   i) DatabaseManager.java
 
 4) JDBC Pacakge:
-   JDBCConnection.java
+   ii) JDBCConnection.java
 
 5) MainModule.java
 
